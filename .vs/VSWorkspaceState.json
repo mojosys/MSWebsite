@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js\\ie",
+    "\\assets\\sass",
+    "\\assets\\sass\\layout",
+    "\\images"
   ],
-  "SelectedNode": "\\agile.html",
+  "SelectedNode": "\\images\\pic13.jpg",
   "PreviewInSolutionExplorer": false
 }
