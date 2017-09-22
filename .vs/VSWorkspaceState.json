@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\css",
     "\\assets\\sass",
-    "\\assets\\sass\\layout",
-    "\\images"
+    "\\assets\\sass\\layout"
   ],
-  "SelectedNode": "\\services.html",
+  "SelectedNode": "\\mobile.html",
   "PreviewInSolutionExplorer": false
 }
